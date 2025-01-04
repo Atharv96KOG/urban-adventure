@@ -28,7 +28,7 @@ LiquidCrystal_I2C lcd(0x3F, 16, 2);
 
 char auth[] = "zxv7awFHHbs2lP_52X1cTi8YL5Qc4Vvp     ";  //Enter your Blynk Auth token
 char ssid[] = "Atharv";  //Enter your WIFI SSID
-char pass[] = "9697981972";  //Enter your WIFI Password
+char pass[] = "5484844";  //Enter your WIFI Password
 
 DHT dht(D4, DHT11);//(DHT sensor pin,sensor type)  D4 DHT11 Temperature Sensor
 BlynkTimer timer;
