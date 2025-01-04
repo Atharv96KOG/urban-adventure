@@ -46,14 +46,6 @@ License 📜
 
 This project is licensed under the MIT License. See LICENSE for details.
 
-Acknowledgments 🙏
-
-Special thanks to [Your Name/Organization] for supporting this initiative.
-
 Images 📸
 
-[Insert images of the system's components, agricultural fields, and data visualizations]
-
-Demo 📹
-
-[Insert link to demo/video showcasing the system's functionality]
+https://drive.google.com/drive/folders/1Gaw0uune_G6kBT3tkrZc8Vsr_n5SYgqk
